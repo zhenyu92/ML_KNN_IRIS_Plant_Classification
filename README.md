@@ -16,9 +16,9 @@ The classes are as follows: 1. Iris Setosa, 2. Iris Versicolour, 3. Iris Virgini
 `Predictors:`
 ```
 sepalLength (cm)
-sepalWidth: (cm)
-petalLength: (cm)
-petalWidth: (cm)
+sepalWidth (cm)
+petalLength (cm)
+petalWidth (cm)
 ```
 
 `Target:`
