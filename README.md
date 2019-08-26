@@ -1,4 +1,4 @@
-# A study on Customer T-shirt Size Prediction using K-nearest Neighbor (KNN).
+# A study on IRIS Plant Classification using K-nearest Neighbor (KNN).
 This project is a part of the learning milestone of a Udemy course delivered by [SuperDataScience Team](https://www.udemy.com/machine-learning-classification/). 
 
 ### Author
@@ -9,7 +9,7 @@ This project is a part of the learning milestone of a Udemy course delivered by 
 ### Project Status: [Completed]
 
 ### Project Objective
-YThe data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. 
+The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. 
 The attribute to be predicted is the class of iris plant. 
 The classes are as follows: 1. Iris Setosa, 2. Iris Versicolour, 3. Iris Virginica
 
